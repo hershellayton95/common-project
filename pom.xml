@@ -6,12 +6,12 @@
 	<parent>
 		<groupId>maven-lessons</groupId>
 		<artifactId>master-jse</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>0.0.1</version>
 	</parent>
 
 	<groupId>maven-lessons</groupId>
 	<artifactId>maven-lesson1-common</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>maven-lesson1-common</name>
 	<description>esempio maven project</description>
 	<packaging>jar</packaging>
